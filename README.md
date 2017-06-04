@@ -10,9 +10,11 @@ Puede ver la versión de prueba en el siguiente enlace: https://rawgit.com/Cdore
 
 Proyecto de una aplicación web de noticias en el que se puede hacer scroll o darle al botón de cargar más noticias, para recibirlas de un archivo, en este caso JSON. 
 
-## Añadido archivo RSS de las dos primeras noticias con su posterior validación.
+## RSS
+Añadido archivo RSS de las dos primeras noticias con su posterior validación.
 
-## Añadidas etiquetas meta con open graph para su posterir visibilidad a la hora de compartir.
+## OpenGraph y etiquetas meta
+Añadidas etiquetas meta con open graph para su posterir visibilidad a la hora de compartir.
 
 ## Implementación de contenido
 Añadidas las dos primeras noticias como News1 y News2 como plantillas una de la otra.
