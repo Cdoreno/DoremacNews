@@ -17,6 +17,12 @@ Proyecto de una aplicación web de noticias en el que se puede hacer scroll o da
 ## Implementación de contenido
 Añadidas las dos primeras noticias como News1 y News2 como plantillas una de la otra.
 
+## Scroll y Botón cargar más
+Añadidas opciones de cargado automatico al hacer scroll o al darle al botón de Cargar más. Este ultimo desaparece con un mensaje de alerta cuando no hay más noticias.
+
+## NavBar
+Añadida una barra fija al scroll por medio de bootstrap para facilitar la navegación de la página, a la hora de estar terminada.
+
 ## CSS & Media Queries
 Añadidas modificaciones del enmaquetado con Bootstrap y sobrescritas con un CSS personalizado con ayuda de Media Queries para su desarrollo responsive.
 
