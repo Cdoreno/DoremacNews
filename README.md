@@ -2,31 +2,31 @@
 ##Tu web de noticias.
 
 
-### Ultimas noticias
+## Ultimas noticias
 
 Puede ver la versión de prueba en el siguiente enlace: https://rawgit.com/Cdoreno/DoremacNews/principal/public_html/index.html
 
-###Introducción
+##Introducción
 
-####Proyecto de una aplicación web de noticias en el que se puede hacer scroll o darle al botón de cargar más noticias, para recibirlas de un archivo, en este caso JSON. 
+Proyecto de una aplicación web de noticias en el que se puede hacer scroll o darle al botón de cargar más noticias, para recibirlas de un archivo, en este caso JSON. 
 
-##### Añadidas etiquetas meta con open graph para su posterir visibilidad a la hora de compartir.
+## Añadidas etiquetas meta con open graph para su posterir visibilidad a la hora de compartir.
 
-##### Implementación de contenido
+## Implementación de contenido
 Añadidas las dos primeras noticias como News1 y News2 como plantillas una de la otra.
 
-##### CSS & Media Queries
+## CSS & Media Queries
 Añadidas modificaciones del enmaquetado con Bootstrap y sobrescritas con un CSS personalizado con ayuda de Media Queries para su desarrollo responsive.
 
-##### Busqueda de contenido
+## Busqueda de contenido
 Seleccionadas imagenes, noticias y añadidas al JSON. Configuradas con un mismo formato para su facil implementación con JQuery.
 
-##### Maquetación inicial del proyecto 
+## Maquetación inicial del proyecto 
 Dejado espacio de 300px de ancho a la derecha en las versiones grandes y 90px de alto fijada en el inferior para las versiones pequeñas para una publicidad, como nos ha pedido el cliente.
 
-##### Primeras modificaciones
+## Primeras modificaciones
 Creado la estructuras de carpetas, buscado las imagenes y enmaquetando la estructura base de la página.
 
-##### Pasos previos al desarrollo
+## Pasos previos al desarrollo
 Primeras impresiones y enmaquetado inicial en papel (Versión en construcción)
 
