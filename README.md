@@ -32,5 +32,6 @@ Creado la estructuras de carpetas, buscado las imagenes y enmaquetando la estruc
 ## Pasos previos al desarrollo
 Primeras impresiones y enmaquetado inicial en papel (Versión en construcción)
 
-![alt text](https://raw.githubusercontent.com/Cdoreno/DoremacNews/principal/public_html/img/news.jpg) ![alt text](https://raw.githubusercontent.com/Cdoreno/DoremacNews/principal/public_html/img/news1.jpg)
-Quedan distantes de la web actual, por simplicidad y elegancia a la hora de manejar la web.
+## Quedan distantes de la web actual, por simplicidad y elegancia a la hora de manejar la web.
+![alt text](https://raw.githubusercontent.com/Cdoreno/DoremacNews/principal/public_html/img/news1.jpg)
+
