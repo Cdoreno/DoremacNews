@@ -35,6 +35,8 @@ Dejado espacio de 300px de ancho a la derecha en las versiones grandes y 90px de
 ## Primeras modificaciones
 Creado la estructuras de carpetas, buscado las imagenes y enmaquetando la estructura base de la página.
 
+## Modificaciones a los bocetos iniciales para que se parezca más al estado final deseado por el cliente. 
+
 ## Pasos previos al desarrollo
 Primeras impresiones y enmaquetado inicial en papel (Versión en construcción)
 Quedan distantes de la web actual, por simplicidad y elegancia a la hora de manejar la web.
