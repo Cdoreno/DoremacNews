@@ -1,12 +1,12 @@
 # DoremacNews
-##Tu web de noticias.
+## Tu web de noticias.
 
 
 ## Ultimas noticias
 
 Puede ver la versión de prueba en el siguiente enlace: https://rawgit.com/Cdoreno/DoremacNews/principal/public_html/index.html
 
-##Introducción
+## Introducción
 
 Proyecto de una aplicación web de noticias en el que se puede hacer scroll o darle al botón de cargar más noticias, para recibirlas de un archivo, en este caso JSON. 
 
@@ -31,7 +31,7 @@ Creado la estructuras de carpetas, buscado las imagenes y enmaquetando la estruc
 
 ## Pasos previos al desarrollo
 Primeras impresiones y enmaquetado inicial en papel (Versión en construcción)
+Quedan distantes de la web actual, por simplicidad y elegancia a la hora de manejar la web.
 
-## Quedan distantes de la web actual, por simplicidad y elegancia a la hora de manejar la web.
 ![alt text](https://raw.githubusercontent.com/Cdoreno/DoremacNews/principal/public_html/img/news1.jpg)
 
