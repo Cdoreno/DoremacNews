@@ -43,5 +43,5 @@ Creado la estructuras de carpetas, buscado las imagenes y enmaquetando la estruc
 Primeras impresiones y enmaquetado inicial en papel (Versión en construcción)
 Quedan distantes de la web actual, por simplicidad y elegancia a la hora de manejar la web.
 
-![alt text](https://raw.githubusercontent.com/Cdoreno/DoremacNews/principal/public_html/img/news1.jpg)
+![texto alternativo](https://raw.githubusercontent.com/Cdoreno/DoremacNews/principal/public_html/img/news1.jpg)
 
